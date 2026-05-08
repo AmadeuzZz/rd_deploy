@@ -1,0 +1,8 @@
+rendezvous_server = 'SERVER_IP:HBBS_PORT'
+nat_type = 1
+serial = 0
+
+[options]
+relay-server = 'SERVER_IP:HBBR_PORT'
+key = 'PUT_RUSTDESK_SERVER_PUBLIC_KEY_HERE'
+custom-rendezvous-server = 'SERVER_IP'

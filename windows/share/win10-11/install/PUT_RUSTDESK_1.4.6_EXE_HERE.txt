@@ -1,0 +1,1 @@
+Положи сюда RustDesk 1.4.6 x86_64 EXE и переименуй в rustdesk.exe.
