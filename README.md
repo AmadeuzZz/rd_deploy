@@ -17,7 +17,7 @@
 
 ## Template placeholders
 
-Перед использованием замени placeholders под свою инфраструктуру:
+Перед использованием замените placeholders под свою инфраструктуру:
 
 ```text
 YOUR-DOMAIN                  NetBIOS-имя домена, например EXAMPLE
